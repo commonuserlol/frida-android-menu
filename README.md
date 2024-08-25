@@ -1,3 +1,6 @@
+# Attention
+I don't want anything to do with java anymore because a) frida doesn't always work correctly and b) it debugs horribly. I'm reuploading this project because I had the idea to rewrite it and make it better but I just broke everything xD. It will also be marked as archived for the reasons described above. Don't worry, you can always fork it and add your own improvements :D
+
 ## Overview
 A [Frida](https://frida.re) module to create custom floating menu on Android.
 
