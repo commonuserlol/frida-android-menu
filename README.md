@@ -1,14 +1,14 @@
 ## Overview
-Yet easy but powerful [Frida](https://frida.re) module to create custom floating menu on Android.
+A [Frida](https://frida.re) module to create custom floating menu on Android.
 
 ## Features
 * Frida Integration: no need to compile the code and then inject it every time as you did with a completely Java menu
 * Zero-knowledge about JNI: this project uses frida's convenient api instead of JNI
-* Ready-to-use wrappers: even if you don’t know anything about Java, the project already includes wrappers for the API with minimal jsdoc
+* Ready-to-use wrappers: even if you don’t know anything about Java, the project already includes wrappers for the Java API
 * Highly customizable: ready-made layouts/configs available or create your own
 
 ## Usage
-Please refer to wiki page.
+Please refer to source code.
 
 ## Troubleshooting
 Through a very unstable Java bridge (on which this works), we cannot guarantee that everything will work. Please, prefer roms with non/slightly modified ART code (AOSP forks mainly)<br>***MIUI, ColorOS and other OEM roms MAY work incorrect or won't work at all***
